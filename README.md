@@ -1,4 +1,4 @@
 # Competitive-Programming
 Exercises in competitive programming
 
-Codes created during the competitive programming course.
+Codes created in the competitive programming course.
